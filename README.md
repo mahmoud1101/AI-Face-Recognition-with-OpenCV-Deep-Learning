@@ -62,5 +62,5 @@ cv2.imshow("Labeled Faces", image)
 print("Press any key to close the window.")
 cv2.waitKey(0)
 cv2.destroyAllWindows()                                                                   
-          ![Screenshot 2025-02-15 125149](https://github.com/user-attachments/assets/f9c0d673-4596-487d-b8fb-acbfd98052b2)
+          
                                                                       
